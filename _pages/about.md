@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Shifan Xu is an Applied Physics Ph.D. student at the Yale Quantum System Lab. His research interests are in the Quantum Computer architectures and Quantum algorithms, especially NISQ quantum computer architectures to enable quantum accelration over classical algorithms.
+Bian Xiang is a physics graduate student studying at Nanjing University. She majors in the levitation mechanisms which are easy to achieve precision measurements, such as anti magnetic levitation and fluid levitation, making measurements close to the boundary between macroscopic and microscopic measurements.
 
 

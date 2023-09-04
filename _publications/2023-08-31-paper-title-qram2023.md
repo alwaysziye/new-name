@@ -1,9 +1,9 @@
 ---
-title: "Systems Architecture for Quantum Random Access Memory"
+title: "Experiments with levitated force sensor challenge theories of dark energy"
 collection: publications
-date: 2023-08-31
-paperurl: 'https://arxiv.org/abs/2306.03242'
+date: 2022-08-25
+paperurl: 'https://www.nature.com/articles/s41567-022-01706-9'
 ---
-This paper is about shown in MICRO 2023.
+3/7
 
-[Download paper here](https://arxiv.org/abs/2306.03242)
+[Download paper here](https://www.nature.com/articles/s41567-022-01706-9)
